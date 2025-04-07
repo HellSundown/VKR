@@ -1,0 +1,576 @@
+Time: 0.0s | Queue: 0.0KB | Drops: 0
+Time: 0.2s | Queue: 0.0KB | Drops: 0
+Time: 0.4s | Queue: 0.0KB | Drops: 0
+Time: 0.6s | Queue: 0.0KB | Drops: 0
+Time: 0.8s | Queue: 0.0KB | Drops: 0
+Time: 1.0s | Queue: 71.0KB | Drops: 1
+Time: 1.2s | Queue: 51.7KB | Drops: 15
+Time: 1.4s | Queue: 50.3KB | Drops: 6
+Time: 1.7s | Queue: 68.0KB | Drops: 8
+Time: 1.9s | Queue: 44.4KB | Drops: 8
+Debug: Found cwnd = 61
+Time: 2.1s | Queue: 60.6KB | Drops: 9
+Debug: Found cwnd = 61
+Time: 2.3s | Queue: 62.1KB | Drops: 8
+Debug: Found cwnd = 62
+Time: 2.5s | Queue: 37.0KB | Drops: 9
+Debug: Found cwnd = 62
+Time: 2.7s | Queue: 59.1KB | Drops: 5
+Debug: Found cwnd = 62
+Time: 2.9s | Queue: 59.1KB | Drops: 4
+Debug: Found cwnd = 62
+Time: 3.1s | Queue: 35.5KB | Drops: 9
+Debug: Found cwnd = 63
+Time: 3.3s | Queue: 57.7KB | Drops: 13
+Debug: Found cwnd = 63
+Time: 3.5s | Queue: 57.7KB | Drops: 8
+Debug: Found cwnd = 63
+Time: 3.7s | Queue: 57.7KB | Drops: 9
+Debug: Found cwnd = 63
+Time: 3.9s | Queue: 56.2KB | Drops: 9
+Debug: Found cwnd = 63
+Time: 4.1s | Queue: 37.0KB | Drops: 6
+Debug: Found cwnd = 44
+Time: 4.3s | Queue: 45.8KB | Drops: 7
+Debug: Found cwnd = 48
+Time: 4.5s | Queue: 29.6KB | Drops: 5
+Debug: Found cwnd = 58
+Time: 4.7s | Queue: 39.9KB | Drops: 12
+Debug: Found cwnd = 61
+Time: 4.9s | Queue: 56.2KB | Drops: 7
+Debug: Found cwnd = 61
+Time: 5.1s | Queue: 60.6KB | Drops: 9
+Debug: Found cwnd = 61
+Time: 5.3s | Queue: 62.1KB | Drops: 8
+Debug: Found cwnd = 61
+Time: 5.5s | Queue: 53.2KB | Drops: 9
+Debug: Found cwnd = 63
+Time: 5.7s | Queue: 48.8KB | Drops: 9
+Debug: Found cwnd = 63
+Time: 5.9s | Queue: 48.8KB | Drops: 4
+Debug: Found cwnd = 64
+Time: 6.1s | Queue: 65.1KB | Drops: 6
+Debug: Found cwnd = 64
+Time: 6.3s | Queue: 59.1KB | Drops: 9
+Debug: Found cwnd = 64
+Time: 6.5s | Queue: 54.7KB | Drops: 9
+Debug: Found cwnd = 64
+Time: 6.7s | Queue: 32.5KB | Drops: 11
+Debug: Found cwnd = 65
+Time: 6.9s | Queue: 41.4KB | Drops: 6
+Debug: Found cwnd = 66
+Time: 7.2s | Queue: 37.0KB | Drops: 7
+Debug: Found cwnd = 71
+Time: 7.4s | Queue: 63.6KB | Drops: 7
+Debug: Found cwnd = 76
+Time: 7.6s | Queue: 78.4KB | Drops: 10
+Debug: Found cwnd = 77
+Time: 7.8s | Queue: 57.7KB | Drops: 9
+Debug: Found cwnd = 77
+Time: 8.0s | Queue: 54.7KB | Drops: 9
+Debug: Found cwnd = 78
+Time: 8.2s | Queue: 59.1KB | Drops: 9
+Debug: Found cwnd = 79
+Time: 8.4s | Queue: 57.7KB | Drops: 10
+Debug: Found cwnd = 79
+Time: 8.6s | Queue: 34.0KB | Drops: 10
+Debug: Found cwnd = 79
+Time: 8.8s | Queue: 84.3KB | Drops: 7
+Debug: Found cwnd = 79
+Time: 9.0s | Queue: 71.0KB | Drops: 9
+Debug: Found cwnd = 79
+Time: 9.2s | Queue: 71.0KB | Drops: 12
+Debug: Found cwnd = 55
+Time: 9.4s | Queue: 53.2KB | Drops: 10
+Debug: Found cwnd = 60
+Time: 9.6s | Queue: 38.4KB | Drops: 7
+Debug: Found cwnd = 62
+Time: 9.8s | Queue: 63.6KB | Drops: 4
+Debug: Found cwnd = 63
+Time: 10.0s | Queue: 53.2KB | Drops: 11
+Debug: Found cwnd = 63
+Time: 10.2s | Queue: 54.7KB | Drops: 7
+Debug: Found cwnd = 68
+Time: 10.4s | Queue: 62.1KB | Drops: 8
+Debug: Found cwnd = 70
+Time: 10.6s | Queue: 63.6KB | Drops: 7
+Debug: Found cwnd = 73
+Time: 10.8s | Queue: 79.8KB | Drops: 10
+Debug: Found cwnd = 75
+Time: 11.0s | Queue: 62.1KB | Drops: 7
+Debug: Found cwnd = 76
+Time: 11.2s | Queue: 82.8KB | Drops: 9
+Debug: Found cwnd = 77
+Time: 11.4s | Queue: 51.7KB | Drops: 9
+Debug: Found cwnd = 77
+Time: 11.6s | Queue: 62.1KB | Drops: 10
+Debug: Found cwnd = 78
+Time: 11.8s | Queue: 59.1KB | Drops: 7
+Debug: Found cwnd = 79
+Time: 12.0s | Queue: 79.8KB | Drops: 11
+Debug: Found cwnd = 79
+Time: 12.3s | Queue: 47.3KB | Drops: 9
+Debug: Found cwnd = 79
+Time: 12.5s | Queue: 54.7KB | Drops: 6
+Debug: Found cwnd = 44
+Time: 12.7s | Queue: 62.1KB | Drops: 9
+Debug: Found cwnd = 60
+Time: 12.9s | Queue: 38.4KB | Drops: 8
+Debug: Found cwnd = 61
+Time: 13.1s | Queue: 72.4KB | Drops: 5
+Debug: Found cwnd = 64
+Time: 13.3s | Queue: 37.0KB | Drops: 9
+Debug: Found cwnd = 64
+Time: 13.5s | Queue: 53.2KB | Drops: 6
+Debug: Found cwnd = 69
+Time: 13.7s | Queue: 31.0KB | Drops: 6
+Debug: Found cwnd = 71
+Time: 13.9s | Queue: 25.1KB | Drops: 4
+Debug: Found cwnd = 77
+Time: 14.1s | Queue: 57.7KB | Drops: 13
+Debug: Found cwnd = 79
+Time: 14.3s | Queue: 82.8KB | Drops: 9
+Debug: Found cwnd = 39
+Time: 14.5s | Queue: 42.9KB | Drops: 10
+Debug: Found cwnd = 50
+Time: 14.7s | Queue: 62.1KB | Drops: 8
+Debug: Found cwnd = 58
+Time: 14.9s | Queue: 48.8KB | Drops: 12
+Debug: Found cwnd = 61
+Time: 15.1s | Queue: 60.6KB | Drops: 7
+Debug: Found cwnd = 62
+Time: 15.3s | Queue: 38.4KB | Drops: 7
+Debug: Found cwnd = 63
+Time: 15.5s | Queue: 42.9KB | Drops: 9
+Debug: Found cwnd = 63
+Time: 15.7s | Queue: 59.1KB | Drops: 9
+Debug: Found cwnd = 64
+Time: 15.9s | Queue: 60.6KB | Drops: 6
+Debug: Found cwnd = 64
+Time: 16.1s | Queue: 41.4KB | Drops: 9
+Debug: Found cwnd = 64
+Time: 16.3s | Queue: 62.1KB | Drops: 11
+Debug: Found cwnd = 64
+Time: 16.5s | Queue: 59.1KB | Drops: 10
+Debug: Found cwnd = 65
+Time: 16.7s | Queue: 59.1KB | Drops: 6
+Debug: Found cwnd = 68
+Time: 16.9s | Queue: 59.1KB | Drops: 5
+Debug: Found cwnd = 68
+Time: 17.2s | Queue: 59.1KB | Drops: 9
+Debug: Found cwnd = 68
+Time: 17.4s | Queue: 60.6KB | Drops: 7
+Debug: Found cwnd = 68
+Time: 17.6s | Queue: 60.6KB | Drops: 8
+Debug: Found cwnd = 70
+Time: 17.8s | Queue: 62.1KB | Drops: 6
+Debug: Found cwnd = 70
+Time: 18.0s | Queue: 59.1KB | Drops: 8
+Debug: Found cwnd = 70
+Time: 18.2s | Queue: 32.5KB | Drops: 7
+Debug: Found cwnd = 70
+Time: 18.4s | Queue: 51.7KB | Drops: 8
+Debug: Found cwnd = 53
+Time: 18.6s | Queue: 50.3KB | Drops: 9
+Debug: Found cwnd = 58
+Time: 18.8s | Queue: 54.7KB | Drops: 7
+Debug: Found cwnd = 59
+Time: 19.0s | Queue: 62.1KB | Drops: 6
+Debug: Found cwnd = 61
+Time: 19.2s | Queue: 47.3KB | Drops: 9
+Debug: Found cwnd = 63
+Time: 19.4s | Queue: 62.1KB | Drops: 8
+Debug: Found cwnd = 44
+Time: 19.6s | Queue: 48.8KB | Drops: 9
+Debug: Found cwnd = 49
+Time: 19.8s | Queue: 38.4KB | Drops: 8
+Debug: Found cwnd = 59
+Time: 20.0s | Queue: 62.1KB | Drops: 8
+Debug: Found cwnd = 60
+Time: 20.2s | Queue: 62.1KB | Drops: 9
+Debug: Found cwnd = 61
+Time: 20.4s | Queue: 60.6KB | Drops: 7
+Debug: Found cwnd = 61
+Time: 20.6s | Queue: 28.1KB | Drops: 9
+Debug: Found cwnd = 62
+Time: 20.8s | Queue: 53.2KB | Drops: 8
+Debug: Found cwnd = 62
+Time: 21.0s | Queue: 53.2KB | Drops: 6
+Debug: Found cwnd = 62
+Time: 21.3s | Queue: 62.1KB | Drops: 8
+Debug: Found cwnd = 62
+Time: 21.5s | Queue: 56.2KB | Drops: 6
+Debug: Found cwnd = 62
+Time: 21.7s | Queue: 62.1KB | Drops: 6
+Debug: Found cwnd = 62
+Time: 21.9s | Queue: 35.5KB | Drops: 7
+Debug: Found cwnd = 63
+Time: 22.1s | Queue: 37.0KB | Drops: 9
+Debug: Found cwnd = 64
+Time: 22.3s | Queue: 56.2KB | Drops: 5
+Debug: Found cwnd = 64
+Time: 22.5s | Queue: 53.2KB | Drops: 7
+Debug: Found cwnd = 64
+Time: 22.7s | Queue: 59.1KB | Drops: 8
+Debug: Found cwnd = 64
+Time: 22.9s | Queue: 39.9KB | Drops: 6
+Debug: Found cwnd = 65
+Time: 23.1s | Queue: 57.7KB | Drops: 5
+Debug: Found cwnd = 66
+Time: 23.3s | Queue: 56.2KB | Drops: 5
+Debug: Found cwnd = 66
+Time: 23.5s | Queue: 57.7KB | Drops: 5
+Debug: Found cwnd = 66
+Time: 23.7s | Queue: 59.1KB | Drops: 7
+Debug: Found cwnd = 66
+Time: 23.9s | Queue: 57.7KB | Drops: 8
+Debug: Found cwnd = 68
+Time: 24.1s | Queue: 57.7KB | Drops: 13
+Debug: Found cwnd = 49
+Time: 24.3s | Queue: 32.5KB | Drops: 9
+Debug: Found cwnd = 57
+Time: 24.5s | Queue: 57.7KB | Drops: 8
+Debug: Found cwnd = 60
+Time: 24.7s | Queue: 35.5KB | Drops: 9
+Debug: Found cwnd = 62
+Time: 24.9s | Queue: 56.2KB | Drops: 5
+Debug: Found cwnd = 62
+Time: 25.1s | Queue: 37.0KB | Drops: 3
+Debug: Found cwnd = 62
+Time: 25.3s | Queue: 62.1KB | Drops: 7
+Debug: Found cwnd = 62
+Time: 25.6s | Queue: 34.0KB | Drops: 6
+Debug: Found cwnd = 62
+Time: 25.8s | Queue: 50.3KB | Drops: 7
+Debug: Found cwnd = 50
+Time: 26.0s | Queue: 59.1KB | Drops: 10
+Debug: Found cwnd = 57
+Time: 26.2s | Queue: 45.8KB | Drops: 8
+Debug: Found cwnd = 60
+Time: 26.4s | Queue: 62.1KB | Drops: 8
+Debug: Found cwnd = 60
+Time: 26.6s | Queue: 60.6KB | Drops: 11
+Debug: Found cwnd = 61
+Time: 26.8s | Queue: 57.7KB | Drops: 6
+Debug: Found cwnd = 61
+Time: 27.0s | Queue: 56.2KB | Drops: 6
+Debug: Found cwnd = 62
+Time: 27.2s | Queue: 62.1KB | Drops: 8
+Debug: Found cwnd = 62
+Time: 27.4s | Queue: 38.4KB | Drops: 10
+Debug: Found cwnd = 62
+Time: 27.6s | Queue: 62.1KB | Drops: 8
+Debug: Found cwnd = 63
+Time: 27.8s | Queue: 53.2KB | Drops: 7
+Debug: Found cwnd = 63
+Time: 28.0s | Queue: 50.3KB | Drops: 8
+Debug: Found cwnd = 63
+Time: 28.2s | Queue: 56.2KB | Drops: 8
+Debug: Found cwnd = 65
+Time: 28.4s | Queue: 60.6KB | Drops: 8
+Debug: Found cwnd = 65
+Time: 28.6s | Queue: 62.1KB | Drops: 8
+Debug: Found cwnd = 66
+Time: 28.8s | Queue: 60.6KB | Drops: 8
+Debug: Found cwnd = 66
+Time: 29.0s | Queue: 34.0KB | Drops: 7
+Debug: Found cwnd = 66
+Time: 29.2s | Queue: 60.6KB | Drops: 5
+Debug: Found cwnd = 66
+Time: 29.4s | Queue: 53.2KB | Drops: 7
+Debug: Found cwnd = 66
+Time: 29.7s | Queue: 53.2KB | Drops: 11
+Debug: Found cwnd = 66
+Time: 29.9s | Queue: 59.1KB | Drops: 8
+Debug: Found cwnd = 66
+Time: 30.1s | Queue: 59.1KB | Drops: 6
+Debug: Found cwnd = 67
+Time: 30.3s | Queue: 66.5KB | Drops: 8
+Debug: Found cwnd = 67
+Time: 30.5s | Queue: 31.0KB | Drops: 7
+Debug: Found cwnd = 68
+Time: 30.7s | Queue: 65.1KB | Drops: 5
+Debug: Found cwnd = 68
+Time: 30.9s | Queue: 57.7KB | Drops: 11
+Debug: Found cwnd = 69
+Time: 31.1s | Queue: 60.6KB | Drops: 10
+Debug: Found cwnd = 71
+Time: 31.3s | Queue: 50.3KB | Drops: 6
+Debug: Found cwnd = 71
+Time: 31.5s | Queue: 62.1KB | Drops: 9
+Debug: Found cwnd = 52
+Time: 31.7s | Queue: 54.7KB | Drops: 8
+Debug: Found cwnd = 59
+Time: 31.9s | Queue: 54.7KB | Drops: 9
+Debug: Found cwnd = 61
+Time: 32.1s | Queue: 50.3KB | Drops: 7
+Debug: Found cwnd = 61
+Time: 32.3s | Queue: 29.6KB | Drops: 7
+Debug: Found cwnd = 62
+Time: 32.5s | Queue: 37.0KB | Drops: 4
+Debug: Found cwnd = 63
+Time: 32.7s | Queue: 41.4KB | Drops: 5
+Debug: Found cwnd = 63
+Time: 32.9s | Queue: 57.7KB | Drops: 11
+Debug: Found cwnd = 63
+Time: 33.1s | Queue: 60.6KB | Drops: 8
+Debug: Found cwnd = 63
+Time: 33.3s | Queue: 54.7KB | Drops: 7
+Debug: Found cwnd = 63
+Time: 33.5s | Queue: 59.1KB | Drops: 7
+Debug: Found cwnd = 63
+Time: 33.7s | Queue: 38.4KB | Drops: 7
+Debug: Found cwnd = 63
+Time: 33.9s | Queue: 65.1KB | Drops: 4
+Debug: Found cwnd = 63
+Time: 34.2s | Queue: 53.2KB | Drops: 9
+Debug: Found cwnd = 63
+Time: 34.4s | Queue: 56.2KB | Drops: 8
+Debug: Found cwnd = 74
+Time: 34.6s | Queue: 79.8KB | Drops: 11
+Debug: Found cwnd = 74
+Time: 34.8s | Queue: 60.6KB | Drops: 10
+Debug: Found cwnd = 75
+Time: 35.0s | Queue: 76.9KB | Drops: 11
+Debug: Found cwnd = 77
+Time: 35.2s | Queue: 78.4KB | Drops: 9
+Debug: Found cwnd = 78
+Time: 35.4s | Queue: 47.3KB | Drops: 9
+Debug: Found cwnd = 79
+Time: 35.6s | Queue: 63.6KB | Drops: 11
+Debug: Found cwnd = 79
+Time: 35.8s | Queue: 73.9KB | Drops: 8
+Debug: Found cwnd = 79
+Time: 36.0s | Queue: 53.2KB | Drops: 8
+Debug: Found cwnd = 59
+Time: 36.2s | Queue: 45.8KB | Drops: 9
+Debug: Found cwnd = 62
+Time: 36.4s | Queue: 56.2KB | Drops: 8
+Debug: Found cwnd = 63
+Time: 36.6s | Queue: 34.0KB | Drops: 8
+Debug: Found cwnd = 65
+Time: 36.8s | Queue: 68.0KB | Drops: 6
+Debug: Found cwnd = 67
+Time: 37.0s | Queue: 34.0KB | Drops: 7
+Debug: Found cwnd = 71
+Time: 37.2s | Queue: 54.7KB | Drops: 7
+Debug: Found cwnd = 71
+Time: 37.4s | Queue: 60.6KB | Drops: 9
+Debug: Found cwnd = 74
+Time: 37.7s | Queue: 62.1KB | Drops: 7
+Debug: Found cwnd = 76
+Time: 37.9s | Queue: 35.5KB | Drops: 10
+Debug: Found cwnd = 77
+Time: 38.1s | Queue: 51.7KB | Drops: 11
+Debug: Found cwnd = 77
+Time: 38.3s | Queue: 34.0KB | Drops: 6
+Debug: Found cwnd = 78
+Time: 38.5s | Queue: 78.4KB | Drops: 8
+Debug: Found cwnd = 79
+Time: 38.7s | Queue: 78.4KB | Drops: 7
+Debug: Found cwnd = 79
+Time: 38.9s | Queue: 79.8KB | Drops: 11
+Debug: Found cwnd = 79
+Time: 39.1s | Queue: 59.1KB | Drops: 8
+Debug: Found cwnd = 79
+Time: 39.3s | Queue: 59.1KB | Drops: 6
+Debug: Found cwnd = 79
+Time: 39.5s | Queue: 57.7KB | Drops: 10
+Debug: Found cwnd = 79
+Time: 39.7s | Queue: 75.4KB | Drops: 10
+Debug: Found cwnd = 79
+Time: 39.9s | Queue: 75.4KB | Drops: 10
+Debug: Found cwnd = 79
+Time: 40.1s | Queue: 78.4KB | Drops: 10
+Debug: Found cwnd = 79
+Time: 40.3s | Queue: 63.6KB | Drops: 12
+Debug: Found cwnd = 59
+Time: 40.5s | Queue: 68.0KB | Drops: 7
+Debug: Found cwnd = 61
+Time: 40.7s | Queue: 47.3KB | Drops: 7
+Debug: Found cwnd = 61
+Time: 40.9s | Queue: 65.1KB | Drops: 7
+Debug: Found cwnd = 63
+Time: 41.1s | Queue: 68.0KB | Drops: 5
+Debug: Found cwnd = 67
+Time: 41.4s | Queue: 59.1KB | Drops: 8
+Debug: Found cwnd = 67
+Time: 41.6s | Queue: 53.2KB | Drops: 9
+Debug: Found cwnd = 73
+Time: 41.8s | Queue: 69.5KB | Drops: 6
+Debug: Found cwnd = 75
+Time: 42.0s | Queue: 53.2KB | Drops: 10
+Debug: Found cwnd = 59
+Time: 42.2s | Queue: 59.1KB | Drops: 9
+Debug: Found cwnd = 59
+Time: 42.4s | Queue: 56.2KB | Drops: 7
+Debug: Found cwnd = 60
+Time: 42.6s | Queue: 65.1KB | Drops: 8
+Debug: Found cwnd = 61
+Time: 42.8s | Queue: 34.0KB | Drops: 8
+Debug: Found cwnd = 62
+Time: 43.0s | Queue: 34.0KB | Drops: 7
+Time: 43.2s | Queue: 38.4KB | Drops: 7
+Debug: Found cwnd = 63
+Time: 43.4s | Queue: 48.8KB | Drops: 5
+Debug: Found cwnd = 64
+Time: 43.6s | Queue: 59.1KB | Drops: 12
+Debug: Found cwnd = 64
+Time: 43.8s | Queue: 62.1KB | Drops: 7
+Debug: Found cwnd = 64
+Time: 44.0s | Queue: 59.1KB | Drops: 11
+Debug: Found cwnd = 64
+Time: 44.3s | Queue: 31.0KB | Drops: 6
+Debug: Found cwnd = 64
+Time: 44.5s | Queue: 65.1KB | Drops: 7
+Debug: Found cwnd = 64
+Time: 44.7s | Queue: 31.0KB | Drops: 7
+Debug: Found cwnd = 65
+Time: 44.9s | Queue: 59.1KB | Drops: 8
+Debug: Found cwnd = 65
+Time: 45.1s | Queue: 62.1KB | Drops: 13
+Debug: Found cwnd = 65
+Time: 45.3s | Queue: 60.6KB | Drops: 6
+Debug: Found cwnd = 67
+Time: 45.5s | Queue: 53.2KB | Drops: 8
+Debug: Found cwnd = 67
+Time: 45.7s | Queue: 54.7KB | Drops: 8
+Debug: Found cwnd = 67
+Time: 45.9s | Queue: 60.6KB | Drops: 9
+Debug: Found cwnd = 67
+Time: 46.1s | Queue: 56.2KB | Drops: 10
+Debug: Found cwnd = 68
+Time: 46.3s | Queue: 59.1KB | Drops: 7
+Debug: Found cwnd = 69
+Time: 46.5s | Queue: 37.0KB | Drops: 9
+Debug: Found cwnd = 69
+Time: 46.7s | Queue: 54.7KB | Drops: 6
+Debug: Found cwnd = 69
+Debug: Found cwnd = 49
+Time: 46.9s | Queue: 34.0KB | Drops: 6
+Time: 47.1s | Queue: 48.8KB | Drops: 7
+Debug: Found cwnd = 57
+Time: 47.4s | Queue: 28.1KB | Drops: 12
+Debug: Found cwnd = 60
+Time: 47.6s | Queue: 32.5KB | Drops: 6
+Debug: Found cwnd = 61
+Time: 47.8s | Queue: 38.4KB | Drops: 7
+Debug: Found cwnd = 62
+Time: 48.0s | Queue: 39.9KB | Drops: 7
+Debug: Found cwnd = 63
+Time: 48.2s | Queue: 38.4KB | Drops: 6
+Debug: Found cwnd = 65
+Time: 48.4s | Queue: 38.4KB | Drops: 4
+Debug: Found cwnd = 65
+Time: 48.6s | Queue: 53.2KB | Drops: 6
+Debug: Found cwnd = 66
+Time: 48.8s | Queue: 54.7KB | Drops: 7
+Debug: Found cwnd = 69
+Time: 49.0s | Queue: 59.1KB | Drops: 8
+Debug: Found cwnd = 69
+Time: 49.2s | Queue: 59.1KB | Drops: 6
+Debug: Found cwnd = 70
+Time: 49.4s | Queue: 59.1KB | Drops: 6
+Debug: Found cwnd = 70
+Time: 49.6s | Queue: 59.1KB | Drops: 6
+Debug: Found cwnd = 71
+Time: 49.8s | Queue: 48.8KB | Drops: 12
+Debug: Found cwnd = 71
+Time: 50.0s | Queue: 37.0KB | Drops: 7
+Debug: Found cwnd = 72
+Time: 50.2s | Queue: 56.2KB | Drops: 6
+Debug: Found cwnd = 73
+Time: 50.4s | Queue: 32.5KB | Drops: 9
+Debug: Found cwnd = 76
+Time: 50.6s | Queue: 62.1KB | Drops: 9
+Debug: Found cwnd = 77
+Time: 50.8s | Queue: 78.4KB | Drops: 9
+Debug: Found cwnd = 78
+Time: 51.0s | Queue: 62.1KB | Drops: 7
+Debug: Found cwnd = 78
+Time: 51.3s | Queue: 81.3KB | Drops: 12
+Debug: Found cwnd = 78
+Time: 51.5s | Queue: 88.7KB | Drops: 9
+Debug: Found cwnd = 78
+Time: 51.7s | Queue: 56.2KB | Drops: 11
+Debug: Found cwnd = 78
+Time: 51.9s | Queue: 35.5KB | Drops: 9
+Debug: Found cwnd = 78
+Time: 52.1s | Queue: 76.9KB | Drops: 14
+Debug: Found cwnd = 79
+Time: 52.3s | Queue: 82.8KB | Drops: 6
+Debug: Found cwnd = 79
+Time: 52.5s | Queue: 84.3KB | Drops: 6
+Debug: Found cwnd = 79
+Time: 52.7s | Queue: 63.6KB | Drops: 6
+Debug: Found cwnd = 79
+Time: 52.9s | Queue: 84.3KB | Drops: 11
+Debug: Found cwnd = 56
+Time: 53.1s | Queue: 54.7KB | Drops: 13
+Debug: Found cwnd = 60
+Time: 53.3s | Queue: 26.6KB | Drops: 7
+Debug: Found cwnd = 63
+Time: 53.5s | Queue: 35.5KB | Drops: 7
+Debug: Found cwnd = 65
+Time: 53.7s | Queue: 62.1KB | Drops: 8
+Debug: Found cwnd = 65
+Time: 53.9s | Queue: 60.6KB | Drops: 10
+Debug: Found cwnd = 70
+Time: 54.1s | Queue: 57.7KB | Drops: 10
+Debug: Found cwnd = 72
+Time: 54.3s | Queue: 81.3KB | Drops: 10
+Debug: Found cwnd = 74
+Time: 54.5s | Queue: 60.6KB | Drops: 10
+Debug: Found cwnd = 75
+Time: 54.7s | Queue: 51.7KB | Drops: 11
+Debug: Found cwnd = 77
+Time: 54.9s | Queue: 82.8KB | Drops: 8
+Debug: Found cwnd = 78
+Time: 55.1s | Queue: 88.7KB | Drops: 10
+Debug: Found cwnd = 78
+Time: 55.3s | Queue: 59.1KB | Drops: 9
+Debug: Found cwnd = 79
+Time: 55.6s | Queue: 53.2KB | Drops: 10
+Debug: Found cwnd = 79
+Time: 55.8s | Queue: 60.6KB | Drops: 12
+Debug: Found cwnd = 79
+Time: 56.0s | Queue: 72.4KB | Drops: 11
+Debug: Found cwnd = 80
+Time: 56.2s | Queue: 59.1KB | Drops: 10
+Debug: Found cwnd = 80
+Time: 56.4s | Queue: 59.1KB | Drops: 8
+Debug: Found cwnd = 80
+Time: 56.6s | Queue: 76.9KB | Drops: 11
+Debug: Found cwnd = 80
+Time: 56.8s | Queue: 53.2KB | Drops: 9
+Debug: Found cwnd = 80
+Time: 57.0s | Queue: 78.4KB | Drops: 9
+Debug: Found cwnd = 81
+Time: 57.2s | Queue: 60.6KB | Drops: 7
+Debug: Found cwnd = 81
+Time: 57.4s | Queue: 62.1KB | Drops: 8
+Debug: Found cwnd = 81
+Time: 57.6s | Queue: 82.8KB | Drops: 8
+Debug: Found cwnd = 82
+Time: 57.8s | Queue: 56.2KB | Drops: 8
+Debug: Found cwnd = 82
+Time: 58.0s | Queue: 53.2KB | Drops: 10
+Debug: Found cwnd = 82
+Time: 58.2s | Queue: 71.0KB | Drops: 10
+Debug: Found cwnd = 82
+Time: 58.4s | Queue: 82.8KB | Drops: 9
+Debug: Found cwnd = 82
+Time: 58.6s | Queue: 57.7KB | Drops: 11
+Debug: Found cwnd = 58
+Time: 58.8s | Queue: 60.6KB | Drops: 9
+Debug: Found cwnd = 61
+Time: 59.1s | Queue: 32.5KB | Drops: 9
+Debug: Found cwnd = 64
+Time: 59.3s | Queue: 39.9KB | Drops: 6
+Debug: Found cwnd = 64
+Time: 59.5s | Queue: 41.4KB | Drops: 10
+Debug: Found cwnd = 64
+Time: 59.7s | Queue: 39.9KB | Drops: 8
+Debug: Found cwnd = 70
+Time: 59.9s | Queue: 51.7KB | Drops: 10
+Debug: Found cwnd = 52
