@@ -1,0 +1,11 @@
+limit 500000 min 30000 max 100000 avpkt 1500 burst 10 probability 0.03
+limit 500000 min 30000 max 100000 avpkt 1500 burst 20 probability 0.03
+limit 500000 min 30000 max 100000 avpkt 1500 burst 30 probability 0.03
+limit 500000 min 30000 max 100000 avpkt 1500 burst 40 probability 0.03
+limit 500000 min 30000 max 100000 avpkt 1500 burst 50 probability 0.03
+limit 500000 min 30000 max 100000 avpkt 1500 burst 60 probability 0.03
+limit 500000 min 30000 max 100000 avpkt 1500 burst 70 probability 0.03
+limit 500000 min 30000 max 100000 avpkt 1500 burst 73 probability 0.03  # Исходное
+limit 500000 min 30000 max 100000 avpkt 1500 burst 80 probability 0.03
+limit 500000 min 30000 max 100000 avpkt 1500 burst 100 probability 0.03
+
